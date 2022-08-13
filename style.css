@@ -1,0 +1,15 @@
+/**
+Theme name: WpThemeScratchRobiz
+Theme URI: https://justlearnwebdev.com
+Author: Alfred
+Author URL: https://alfredkumar.com
+Description: Theme from Scratch
+Version: 1.0.0
+License: GNU
+**/
+
+
+h1{
+    font: 1em sans-serif;
+    color:black;
+}
